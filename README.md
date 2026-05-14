@@ -184,15 +184,16 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **Team Members – Machine Learning 2 Project**
 
-- Esther Wanjiru (SCT213-C002-0018/2023) – Project Manager & Lead Writer
-- Brandon Kungu (SCT213-C002-0038/2023) – Data Cleaning Specialist
-- Otieno Evance (SCT213-C002-0088/2023) – EDA Analyst
-- Peter James Onyango (SCT213-C002-0126/2023) – Feature Engineer
-- Jeff Omondi (SCT213-C002-0075/2022) – GitHub Coordinator / Ops Engineer
-- Martin Waithanji (SCT213-C002-0052/2023) – K-Means Modeller & Evaluator
-- Kelvin Kipkoech (SCT213-C002-0123/2023) – Hierarchical Clustering Specialist
-- Allan Gift (SCT213-C002-0068/2023) – PCA & Visualization Lead
-
+- Esther Wanjiru  – Project Manager & Lead Writer
+- Brandon Kungu  – Data Cleaning Specialist
+- Otieno Evance  – EDA Analyst
+- Peter James Onyango  – Feature Engineer
+- Jeff Omondi  – GitHub Coordinator / Ops Engineer
+- Martin Waithanji  – K-Means Modeller & Evaluator
+- Kelvin Kipkoech  – Hierarchical Clustering Specialist
+- Allan Gift  – PCA & Visualization Lead
+- Moris Gachanja-DBScan Analyst
+  
 ---
 
 ## Acknowledgments
