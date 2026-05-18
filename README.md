@@ -38,16 +38,16 @@ and evaluates their performance using internal validation metrics and business i
 
 ## Team Roles & Responsibilities
 
-| Role | Name | Student ID | Responsibility |
+| Role | Name | Responsibility |
 |------|------|------------|----------------|
-| **Project Manager & Lead Writer** | Esther Wanjiru | SCT213-C002-0018/2023 | Project coordination, documentation, final report |
-| **Data Cleaning Specialist** | Brandon Kungu | SCT213-C002-0038/2023 | Data preprocessing, outlier handling, missing value treatment |
-| **EDA Analyst** | Otieno Evance | SCT213-C002-0088/2023 | Exploratory data analysis, visualization, country sales analysis |
-| **Feature Engineer** | Peter James Onyango | SCT213-C002-0126/2023 | RFM construction, log transformation, scaling |
-| **GitHub Coordinator / Ops Engineer** | Jeff Omondi | SCT213-C002-0075/2022 | Repository management, environment setup, script automation |
-| **K-Means Modeller & Evaluator** | Martin Waithanji | SCT213-C002-0052/2023 | K-Means clustering, elbow method, silhouette scoring |
-| **Hierarchical Clustering Specialist** | Kelvin Kipkoech | SCT213-C002-0123/2023 | Hierarchical clustering, dendrogram interpretation |
-| **PCA & Visualization Lead** | Allan Gift | SCT213-C002-0068/2023 | PCA dimensionality reduction, 2D/3D visualizations |
+| **Project Manager & Lead Writer** | Esther Wanjiru | Project coordination, documentation, final report |
+| **Data Cleaning Specialist** | Brandon Kungu  | Data preprocessing, outlier handling, missing value treatment |
+| **EDA Analyst** | Otieno Evance | Exploratory data analysis, visualization, country sales analysis |
+| **Feature Engineer** | Peter James Onyango  | RFM construction, log transformation, scaling |
+| **GitHub Coordinator / Ops Engineer** | Jeff Omondi  | Repository management, environment setup, script automation |
+| **K-Means Modeller & Evaluator** | Martin Waithanji | K-Means clustering, elbow method, silhouette scoring |
+| **Hierarchical Clustering Specialist** | Kelvin Kipkoech | Hierarchical clustering, dendrogram interpretation |
+| **PCA & Visualization Lead** | Allan Gift  | PCA dimensionality reduction, 2D/3D visualizations |
 
 ---
 
